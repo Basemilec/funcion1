@@ -1,0 +1,10 @@
+Package: funcion1
+Title: FUNCION PARA ENTRENAR UN PERCEPTRON SIMPLE
+Version: 0.1.0
+Authors@R: 
+    person("Ricardo", "Castañeda", , "amesamu2015@gmail.com", role = c("aut", "cre"))
+Description: Entrena un perceptrón.
+License: MIT + file LICENSE
+Config/roxygen2/version: 8.1.1
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
